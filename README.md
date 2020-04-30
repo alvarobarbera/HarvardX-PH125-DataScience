@@ -1,2 +1,4 @@
 # HarvardX-PH125-DataScience
-Notes and practice docs and scripts for data science course by Rafael Irizarry https://rafalab.github.io/dsbook/
+Notes, docs and scripts to practice while taking the data science course by Rafael Irizarry 
+Book https://rafalab.github.io/dsbook/
+edx course https://www.edx.org/professional-certificate/harvardx-data-science
