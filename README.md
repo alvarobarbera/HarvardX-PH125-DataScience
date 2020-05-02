@@ -14,3 +14,5 @@ Notes and summaries of modules
 
 * [PH125.3 PROBABILITY](https://rpubs.com/alvarobarbera/PH125-3-Probability)
 
+* [PH125.4 INFERENCE & MODELING](https://rpubs.com/alvarobarbera/PH125-4-Inference-and-modeling)
+
