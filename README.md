@@ -16,7 +16,7 @@ Notes and summaries of modules
 
 * [PH125.4 INFERENCE & MODELING](https://rpubs.com/alvarobarbera/PH125-4-Inference-and-modeling)
 
-* [PH125.6 DATA WRANGLING](https://github.com/alvarobarbera/HarvardX-PH125-DataScience/tree/master/PH125.6%20Data%20Wrangling/R%20code)
+* [PH125.6 DATA WRANGLING](https://github.com/alvarobarbera/HarvardX-PH125-DataScience/blob/master/PH125.6%20Data%20Wrangling/PH125.6_Notes.md)
 
 * [PH125.7 LINEAR REGRESSION](https://rpubs.com/alvarobarbera/PH125-7-Linear-Regression)
 
